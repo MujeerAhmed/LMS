@@ -69,20 +69,20 @@ python manage.py runserver
 <p align="center">
   LMS Home
 </p>
-<img src="lms/static/images/lms1.jpg">
+<img src="static/images/lms1.jpg">
 </td> 
 <td width="50%">
 <br>
 <p align="center">
   Chatroom
 </p>
-<img src="lms/static/images/lms3.jpg">  
+<img src="static/images/lms3.jpg">  
 </td>
 <td width="50%">
 <br>
 <p align="center">
   Profile Info
 </p>
-<img src="lms/static/images/lms2.jpg">  
+<img src="static/images/lms2.jpg">  
 </td>
 </table>
