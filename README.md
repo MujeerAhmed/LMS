@@ -61,28 +61,14 @@ python manage.py runserver
 
 ### App Preview :
 
-<table width="100%"> 
-<tr>
-<td width="50%">      
-&nbsp; 
-<br>
-<p align="center">
-  LMS Home
-</p>
-<img src="static/images/lms1.jpg">
-</td> 
-<td width="50%">
-<br>
-<p align="center">
-  Chatroom
-</p>
-<img src="static/images/lms3.jpg">  
-</td>
-<td width="50%">
-<br>
-<p align="center">
-  Profile Info
-</p>
-<img src="static/images/lms2.jpg">  
-</td>
-</table>
+# Home Page
+
+<img src="static/images/lms2.jpg">
+
+# Chatroom
+
+<img src="static/images/lms2.jpg">
+
+# Profile Info
+
+<img src="static/images/lms2.jpg">
