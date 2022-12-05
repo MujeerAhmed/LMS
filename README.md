@@ -59,7 +59,7 @@ python manage.py runserver
 
 #
 
-### App Preview :
+# App Preview :
 
 # Home Page
 
