@@ -59,8 +59,6 @@ python manage.py runserver
 
 #
 
-# App Preview :
-
 # Home Page
 
 <img src="static/images/lms2.jpg">
