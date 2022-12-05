@@ -1,7 +1,5 @@
-<div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
 
-# StudyBuddy
+# Learning Managment System
 
 </div>
 
@@ -10,14 +8,14 @@
 --> Clone the repository using the command below :
 
 ```bash
-git clone https://github.com/divanov11/StudyBud.git
+git clone https://github.com/mujeerahmed/lms
 
 ```
 
 --> Move into the directory where we have the project files :
 
 ```bash
-cd StudyBud
+cd lms
 
 ```
 
@@ -69,14 +67,21 @@ python manage.py runserver
 &nbsp; 
 <br>
 <p align="center">
-  Feed Home
+  LMS Home
 </p>
 <img src="lms/static/images/lms1.jpg">
 </td> 
 <td width="50%">
 <br>
 <p align="center">
-  Room Conversation Preview
+  Chatroom
+</p>
+<img src="lms/static/images/lms3.jpg">  
+</td>
+<td width="50%">
+<br>
+<p align="center">
+  Profile Info
 </p>
 <img src="lms/static/images/lms2.jpg">  
 </td>
