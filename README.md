@@ -1,7 +1,8 @@
 
 # Learning Managment System
 
-</div>
+LMS is a blended learning platform developed for educational institutions that aims to simplify creating, distributing, and grading assignments. The primary purpose of LMS is to streamline the process of sharing files, scheduling classes, grading and submitting assignments between teachers and students. I'm working on adding a WebRTC based video conferencing feature that will enable lecturers to conduct online classes within the app. The idea is to have a UI which works like a hybrid of discord and google classroom.
+
 
 ### Cloning the repository
 
